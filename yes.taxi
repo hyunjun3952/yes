@@ -1,0 +1,18 @@
+"y\n" is waiting at the Writer's Depot.
+Go to Writer's Depot: west 1st left, 2nd right, 1st left, 2nd left.
+Pickup a passenger going to Rob's Rest.
+Go to the Post Office: north 1st right, 2nd right, 1st left.
+Go to Rob's Rest: south 1st right, 1st left, 1st left, 1st right, 1st right.
+Pickup a passenger going to Cyclone.
+Go to Cyclone: south 1st left, 1st left, 1st left, 1st right.
+[loop]
+Go to Zoom Zoom: north.
+Go to Cyclone: west.
+Pickup a passenger going to the Post Office.
+Pickup a passenger going to Cyclone.
+Go to The Babelfishery: south 1st left, 2nd right, 1st right.
+Go to Writer's Depot: north 1st left, 1st left, 2nd left.
+Go to the Post Office: north 1st right, 2nd right, 1st left.
+Go to Rob's Rest: south 1st right, 1st left, 1st left, 1st right, 1st right.
+Go to Cyclone: south 1st left, 1st left, 1st left, 1st right.
+Switch to plan "loop".
